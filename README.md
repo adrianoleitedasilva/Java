@@ -61,10 +61,10 @@ No momendo do download, selecione a versão de comunidade, pois ela é Free.
 Marqui aqui o que já foi feito e o que ainda está por vir.
 
 - [X] Download e Configuração do Ambiente de Trabalho
-- [] Dia 01
-- [] Dia 02
-- [] Dia 03
-- [] Dia 04
-- [] Dia 05
-- [] Dia 06
-- [] Dia 07
+- [ ] Dia 01
+- [ ] Dia 02
+- [ ] Dia 03
+- [ ] Dia 04
+- [ ] Dia 05
+- [ ] Dia 06
+- [ ] Dia 07
